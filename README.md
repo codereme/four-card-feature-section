@@ -49,7 +49,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section](https://www.frontendmentor.io/solutions/four-card-feature-section)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-grid-four-card-section-jxW9iEQ8zZ](https://www.frontendmentor.io/solutions/responsive-grid-four-card-section-jxW9iEQ8zZ)
 
 - Live Site URL: [https://codereme.github.io/four-card-feature-section](https://codereme.github.io/four-card-feature-section)
 
