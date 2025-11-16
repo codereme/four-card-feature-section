@@ -55,7 +55,7 @@ html {
   background: linear-gradient(135deg, var(--white), var(--grey-100));
 }
 .content-section {
-  padding: var(--spacing-md);
+  padding-block: var(--spacing-md);
   text-align: center;
   line-height: 1.4;
 }
